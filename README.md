@@ -16,7 +16,7 @@ In this dataset, we have designed the dashboard which contains movie halls havin
 In this dataset, the dashboard created contains map of US consisting of all the states there and their population. The state population has been shown by using the size i.e the state having larger area has been shown
 using large circle. We have also used a continuous graph in order to show the population corresponding to each state.
 </br>
-<h1>In order to visualize the data, we have used:</h1></br>
+<h1>In order to visualize the data, I have used:</h1></br>
 <h2> API: Google chart</h2></br>
 Google Charts provides a perfect way to visualize data. From simple line charts to complex hierarchical tree maps, the chart gallery provides a large number of ready-to-use chart types. The most common way to use Google Charts is with simple JavaScript that we have used in order to embed in our web page. We loaded some Google Chart libraries, list the data to be charted, select options to customize the chart, and finally created a chart object with an id. Then, later in the web page, we created a <div> with that id to display the Google Chart.
   </br>
