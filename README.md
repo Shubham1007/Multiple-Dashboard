@@ -6,7 +6,7 @@ Dashboards not only allow business-oriented users to understand what is actually
 I have taken multiple datasets and we have accordingly design the dashboard. We have taken Company sales dataset, Movie Analysis dataset and Population of US dataset in order to visualize. We have tried to visualize the data in best possible way.
 
 </br>
-# Company sale dataset:</br>
+<h1> Company sale dataset:</h1></br>
 In this dataset, we have created a dashboard which contains performance of the company. In that, it consists of sales, expenses and profit of the different companies in year 2012. We have used bar chart in order to visualize and compare between the companies. We have used different colours in order to represent company’s sales, expenses and profits. We have plotted a histogram to represent overall sales breakdown of the companies. We have used line graph to visualize the performance of the companies. Each and every company have share holders and we have drawn a pie chart to show their shares in the particular company.
 </br>
 # Movie analysis dataset:</br>
