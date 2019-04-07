@@ -17,7 +17,7 @@ In this dataset, the dashboard created contains map of US consisting of all the 
 using large circle. We have also used a continuous graph in order to show the population corresponding to each state.
 </br>
 ## In order to visualize the data, we have used:</br>
-### API: Google chart</br>
+## API: Google chart</br>
 Google Charts provides a perfect way to visualize data. From simple line charts to complex hierarchical tree maps, the chart gallery provides a large number of ready-to-use chart types. The most common way to use Google Charts is with simple JavaScript that we have used in order to embed in our web page. We loaded some Google Chart libraries, list the data to be charted, select options to customize the chart, and finally created a chart object with an id. Then, later in the web page, we created a <div> with that id to display the Google Chart.
   </br>
   
