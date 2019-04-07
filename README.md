@@ -26,10 +26,10 @@ D3 (Data-Driven Documents or D3.js) is a JavaScript library for visualizing data
 
 <h1> Screenshots:</h1>
 <h2>Company sale dashboard:</h2>
-<img src="company"></br>
-<img src="company1"></br>
+<img src="company.JPG"></br></br>
+<img src="company1.JPG"></br></br>
 <h2> Movie Analysis dashboard:</h2>
-<img src="movie.JPG"></br>
+<img src="movie.JPG"></br></br>
 <h2>Population dashboard:</h2>
-<img src="pos.JPG"></br>
-<img src="pos1.JPG"></br>
+<img src="pos.JPG"></br></br>
+<img src="pos1.JPG"></br></br>
